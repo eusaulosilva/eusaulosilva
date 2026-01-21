@@ -61,7 +61,3 @@ Recentemente concluí meu TCC, o **ManScan**, um aplicativo robusto de saúde ma
   </a>
 </div>
 
-
-<div align="center">
-  <img src="https://github.com/eusaulosilva/eusaulosilva/raw/output/pacman-github-contribution.svg" alt="Pacman" />
-</div>
