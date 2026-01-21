@@ -3,8 +3,9 @@
 </h1>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=eusaulosilva&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="eusaulosilva" />
+  <a href="https://github.com/eusaulosilva">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eusaulosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=final"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eusaulosilva&layout=compact&theme=dracula&v=final"/>
   </a>
 </div>
 
@@ -23,33 +24,14 @@ Recentemente concluí meu TCC, o **ManScan**, um aplicativo robusto de saúde ma
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
 
-| **Mobile & Front-end** | **Back-end & Cloud** | **Dados & Ferramentas** |
+| **Mobile & Front-end** | **Back-end & Nuvem** | **Dados & Ferramentas** |
 |:---:|:---:|:---:|
-| <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"> <img height="40" src="https://user-images.githubusercontent.com/37453011/224675713-39d48e02-23f0-4660-8488-8422453673f8.png" alt="Cloudinary" title="Cloudinary"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> | <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> |
+| <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"> <img height="40" src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> | <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> |
 
-</div>
-
----
-
-### 📊 Minha Atividade
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=eusaulosilva&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eusaulosilva&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eusaulosilva&theme=dracula&hide_border=true" alt="Streak" />
 </div>
 
 ---
@@ -59,16 +41,16 @@ Recentemente concluí meu TCC, o **ManScan**, um aplicativo robusto de saúde ma
 | Projeto | Status | Tecnologias | Descrição |
 | :--- | :---: | :---: | :--- |
 | [**ManScan**](https://github.com/eusaulosilva/manscanapp) | ✅ `Concluído` | `Flutter` `Firebase` `Cloudinary` | **(TCC)** Plataforma completa de saúde masculina com monitoramento de pressão, IMC, passos e gestão de exames na nuvem. |
-| [**Junina_Flor**](https://github.com/eusaulosilva/Junina_Flor) | ✅ `Concluído` | `JavaScript` `HTML/CSS` | Interface web interativa com foco em design responsivo e experiência do usuário. |
+| [**Junina_Flor**](https://github.com/eusaulosilva/Junina_Flor) | 🚧 `Em andamento` | `JavaScript` `HTML/CSS` | Interface web interativa com foco em design responsivo e experiência do usuário. |
 | [**Número Secreto**](https://github.com/eusaulosilva/numero-secreto) | ✅ `Concluído` | `Lógica JS` | Jogo de adivinhação aplicando lógica de programação e manipulação do DOM. |
 
 ---
 
 <div align="center">
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:eusaulo.silva@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/eusaulosilva/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
