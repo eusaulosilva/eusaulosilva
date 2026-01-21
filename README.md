@@ -28,10 +28,16 @@ Recentemente concluí meu TCC, o **ManScan**, um aplicativo robusto de saúde ma
 
 <div align="center">
 
-| **Dispositivos móveis e Front-end** | **Back-end e Nuvem** | **Dados e Ferramentas** |
+| **Mobile & Front-end** | **Back-end & Nuvem** | **Dados & Ferramentas** |
 |:---:|:---:|:---:|
-| <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> | <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"> <img height="50" width="50" src="https://cdn.simpleicons.org/cloudinary/3448C5"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> | <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> |
+| <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> | <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"> <img height="50" width="50" src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> | <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> |
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/eusaulosilva/eusaulosilva/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -53,9 +59,4 @@ Recentemente concluí meu TCC, o **ManScan**, um aplicativo robusto de saúde ma
   <a href="https://www.linkedin.com/in/eusaulosilva/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-
-<div align="center">
-  <img src="https://github.com/eusaulosilva/eusaulosilva/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
