@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Saulo+Silva!;Flutter+Developer;Front-end+%26+Mobile;Data+%26+Business+Intelligence" alt="Typing SVG" />
 </h1>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/eusaulosilva">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eusaulosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=final"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eusaulosilva&layout=compact&theme=dracula&v=final"/>
   </a>
-</div>
+</div> -->
 
 <br/>
 
