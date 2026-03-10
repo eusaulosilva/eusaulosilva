@@ -1,25 +1,25 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Saulo+Silva!;Flutter+Developer;Front-end+%26+Mobile;Data+%26+Business+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Saulo+Silva!;Full+Stack+Developer;Node.js+|+React+|+Next.js;Flutter+|+Firebase;Data+Analyst+%26+BI" alt="Typing SVG" />
 </h1>
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/eusaulosilva">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eusaulosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=final"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eusaulosilva&layout=compact&theme=dracula&v=final"/>
   </a>
-</div> -->
+</div>
 
 <br/>
 
 ### 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor focado em **Mobile (Flutter)** e **Front-end**, com forte base em **Análise de Dados**. Gosto de criar aplicações completas, desde a interface do usuário até a integração com banco de dados e nuvem.
+Sou graduado em **Ciência da Computação pelo UDF** e possuo um perfil híbrido que integra o **Desenvolvimento Full Stack** à **Análise de Dados**. Com experiência prática estratégica no **Banco do Brasil**, especializei-me em transformar grandes volumes de dados em insights valiosos utilizando SQL, Python e Power BI.
 
-Recentemente concluí meu TCC, o **ManScan**, um aplicativo robusto de saúde masculina com integração em nuvem e monitoramento em tempo real.
+No desenvolvimento de software, foco na construção de aplicações modernas e escaláveis. Utilizo o ecossistema JavaScript (**React, Next.js e Node.js**) para soluções web completas, além de dominar o framework **Flutter** para a criação de interfaces mobile de alta performance.
 
-- 📱 **Especialidade:** Desenvolvimento Mobile com Flutter & Firebase.
-- 📊 **Dados:** Dashboards e insights com Power BI e Python.
-- 🎯 **Foco Atual:** Expandir meu portfólio mobile e atuar na área de desenvolvimento de software.
+- 🚀 **Full Stack:** Desenvolvimento de ponta a ponta com Node.js e React.
+- 📱 **Mobile:** Especialista em Flutter & Firebase.
+- 📊 **Dados:** Inteligência de negócio com SQL e Power BI.
 - 📍 **Localização:** Brasília, Brasil.
 
 ---
@@ -28,9 +28,9 @@ Recentemente concluí meu TCC, o **ManScan**, um aplicativo robusto de saúde ma
 
 <div align="center">
 
-| **Mobile & Front-end** | **Back-end & Nuvem** | **Dados & Ferramentas** |
+| **Web & Mobile** | **Back-end & Database** | **Dados & Ferramentas** |
 |:---:|:---:|:---:|
-| <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> | <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"> <img height="50" width="50" src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> | <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> |
+| <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter"> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"> | <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase"> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL"> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"> | <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI"> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"> |
 
 </div>
 
