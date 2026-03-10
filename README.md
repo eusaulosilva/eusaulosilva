@@ -47,7 +47,7 @@ No desenvolvimento de software, foco na construção de aplicações modernas e 
 ---
 
 <div align="center">
-  <a href="mailto:eusaulo.silva@example.com">
+  <a href="mailto:contato@eusaulosilva.com.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/eusaulosilva/">
