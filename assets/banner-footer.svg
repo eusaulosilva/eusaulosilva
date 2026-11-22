@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 128" width="1200" height="128" role="img" aria-label="Rodapé — Saulo.dev | eusaulosilva.com.br">
+  <defs>
+    <linearGradient id="footBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B0B10" />
+      <stop offset="50%" stop-color="#141122" />
+      <stop offset="100%" stop-color="#0B0B10" />
+    </linearGradient>
+
+    <linearGradient id="waveBack" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6E01B8" stop-opacity="0.35" />
+      <stop offset="50%" stop-color="#9322FD" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#6E01B8" stop-opacity="0.35" />
+    </linearGradient>
+
+    <linearGradient id="waveFront" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9322FD" stop-opacity="0.55" />
+      <stop offset="50%" stop-color="#C084FC" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#9322FD" stop-opacity="0.55" />
+    </linearGradient>
+
+    <linearGradient id="footBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6E01B8" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#C084FC" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#6E01B8" stop-opacity="0.4" />
+    </linearGradient>
+
+    <clipPath id="footClip">
+      <rect x="1" y="1" width="1198" height="126" rx="16" ry="16" />
+    </clipPath>
+  </defs>
+
+  <style>
+    .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, ui-monospace, monospace; }
+  </style>
+
+  <g clip-path="url(#footClip)">
+    <rect x="0" y="0" width="1200" height="128" fill="url(#footBg)" />
+
+    <!-- Layered violet waves -->
+    <path d="M 0 92 Q 180 62 360 88 T 720 82 T 1080 90 T 1200 78 L 1200 128 L 0 128 Z" fill="url(#waveBack)" />
+    <path d="M 0 104 Q 200 84 400 102 T 800 98 T 1200 104 L 1200 128 L 0 128 Z" fill="url(#waveFront)" />
+
+    <!-- Signature text -->
+    <text x="600" y="46" text-anchor="middle" class="sans" font-size="16" font-weight="600" fill="#F5F5F7">Saulo Silva  •  Construindo software escalável e transformando dados em decisões</text>
+    <text x="600" y="72" text-anchor="middle" class="mono" font-size="13.5" font-weight="600" fill="#C084FC">eusaulosilva.com.br  •  contato@eusaulosilva.com.br</text>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="126" rx="16" ry="16" fill="none" stroke="url(#footBorder)" stroke-width="1.2" />
+</svg>
