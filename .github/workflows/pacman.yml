@@ -8,12 +8,10 @@ on:
   # Permite executar manualmente na aba Actions
   workflow_dispatch:
 
-  # Executa quando o próprio workflow é atualizado na branch main
+  # Executa a cada push na branch main
   push:
     branches:
       - main
-    paths:
-      - ".github/workflows/pacman.yml"
 
 permissions:
   contents: write
@@ -31,12 +29,11 @@ jobs:
         uses: actions/checkout@v7
 
       - name: Generate Pacman SVGs
-        uses: abozanona/pacman-contribution-graph@v5
+        uses: abozanona/pacman-contribution-graph@v5.3.2
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           games: "pacman"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push Pacman SVGs to output-pacman branch
         uses: crazy-max/ghaction-github-pages@v5
